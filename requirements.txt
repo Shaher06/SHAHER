@@ -1,0 +1,6 @@
+# Runtime dependencies for Windows / desktop. (On Android, buildozer.spec lists the same packages.)
+kivy==2.3.1
+# Arabic letter joining + right-to-left ordering (pure Python, also packaged for Android)
+arabic-reshaper==3.0.1
+python-bidi==0.4.2
+six
